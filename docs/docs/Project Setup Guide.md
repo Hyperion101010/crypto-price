@@ -19,93 +19,40 @@ Follow the steps below to set up and run the project locally.
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Hyperion101010/crypto-price
 ```
-
-Replace `<repository-url>` with the actual URL of your repository.
 
 ### 2. Install Dependencies
 
 Navigate into the project directory:
 
 ```bash
-cd <project-directory>
+cd crypto-price
 ```
 
-Then, install the project dependencies. You can choose one of the following methods:
+Then, install the project dependencies.
 
 - With **npm**:
   ```bash
   npm install
   ```
 
-- With **yarn**:
-  ```bash
-  yarn install
-  ```
-
-- With **pnpm**:
-  ```bash
-  pnpm install
-  ```
-
-- With **bun**:
-  ```bash
-  bun install
-  ```
-
 ### 3. Run the Development Server
 
-Once the dependencies are installed, run the development server with one of the following commands:
+Once the dependencies are installed, run the development server with following commands:
 
 - With **npm**:
   ```bash
   npm run dev
   ```
 
-- With **yarn**:
-  ```bash
-  yarn dev
-  ```
-
-- With **pnpm**:
-  ```bash
-  pnpm dev
-  ```
-
-- With **bun**:
-  ```bash
-  bun dev
-  ```
-
 ### 4. Open the Application
 
-After the server starts, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to see the application in action.
+After the server starts, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to use the application.
 
 ### 5. Start Editing the Page
 
 You can start editing the page by modifying the `app/page.js` file. The page will automatically update as you make changes.
-
----
-
-## Next.js Features
-
-This project uses the following features of Next.js:
-
-- **Next Font**: The app uses the [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load the Geist font family from Vercel.
-
----
-
-## Learn More
-
-To dive deeper into Next.js, check out these helpful resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - Interactive Next.js tutorial.
-
-You can also check out [the Next.js GitHub repository](https://github.com/vercel/next.js).
-
----
 
 ## Deployment
 
