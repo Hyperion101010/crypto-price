@@ -20,6 +20,6 @@ For more details about the application, setup guides, and API integration, refer
 
 ## Sample screenshot
 
-
+![Crypto Tracker Demo](assets/sample_screenshot.png)
 
 This project provides an interactive and real-time way to track cryptocurrency prices seamlessly.
